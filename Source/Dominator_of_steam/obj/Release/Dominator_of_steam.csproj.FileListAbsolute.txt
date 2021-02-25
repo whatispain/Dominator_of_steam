@@ -1,0 +1,10 @@
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\bin\Release\Dominator_of_steam.exe.config
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\bin\Release\Dominator_of_steam.exe
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\bin\Release\Dominator_of_steam.pdb
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\obj\Release\Dominator_of_steam.csprojAssemblyReference.cache
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\obj\Release\Dominator_of_steam.Form1.resources
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\obj\Release\Dominator_of_steam.Properties.Resources.resources
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\obj\Release\Dominator_of_steam.csproj.GenerateResource.cache
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\obj\Release\Dominator_of_steam.csproj.CoreCompileInputs.cache
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\obj\Release\Dominator_of_steam.exe
+D:\VAJNO_BLAT!\Dominator_of_steam\Dominator_of_steam\obj\Release\Dominator_of_steam.pdb
